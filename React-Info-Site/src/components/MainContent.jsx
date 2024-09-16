@@ -1,7 +1,7 @@
 
 export default function MainContent(){
     return (
-        <main className="text-white bg-[#282D35] p-10 min-h-screen bg-[url('/img/react-icon.png')] bg-[top_7.5rem_right_-8rem] md:bg-[right_top_7.5rem] bg-no-repeat ">
+        <main className="text-[#282D35] bg-white dark:text-white dark:bg-[#282D35] p-10 min-h-screen dark:bg-[url('/img/react-icon.png')] bg-[top_7.5rem_right_-8rem] md:bg-[right_top_7.5rem] bg-no-repeat ">
             <div className="max-w-xl mx-auto">
                 <h1 className="text-[39px] font-bold">Fun facts about React</h1>
                 <ul className="p-10 space-y-4 list-none">
