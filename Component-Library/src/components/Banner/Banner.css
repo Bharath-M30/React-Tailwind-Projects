@@ -1,0 +1,55 @@
+.success-title{
+    color:#065F46;
+}
+.success{
+    background-color: #ECFDF5;
+}
+.success-message{
+    color:#047857;
+}
+.success-icon{
+    color:#34D399;
+}
+
+
+.warning-title{
+    color:#92400E;
+}
+.warning{
+    background-color: #FFFBEB;
+}
+.warning-message{
+    color:#B45309;
+}
+.warning-icon{
+    color:#FBBF24;
+}
+
+
+.error-title{
+    color:#92400E;
+}
+.error{
+    background-color: #FEF2F2;
+}
+.error-message{
+    color:#B45309;
+}
+.error-icon{
+    color:#F87171;
+}
+
+
+.info-title{
+    color:#1E40AF;
+}
+.info{
+    background-color: #EFF6FF;
+}
+.info-message{
+    color:#1C51B9;
+}
+.info-icon{
+    color:#60A5FA;
+}
+

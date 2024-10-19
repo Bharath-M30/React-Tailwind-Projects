@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .gray {
+    @apply bg-[#F3F4F6] text-[#1F2937]
+  }
+  .red{
+    @apply bg-[#FEE2E2] text-[#991B1B]
+  }
+  .yellow{
+    @apply bg-[#FEF3C7] text-[#92400E]
+  }
+  .blue{
+    @apply bg-[#DBEAFE] text-[#1E40AF]
+  }
+  .green{
+    @apply bg-[#D1FAE5] text-[#065F46]
+  }
+  .indigo{
+    @apply bg-[#E0E7FF] text-[#3730A3]
+  }
+  .purple{
+    @apply bg-[#EDE9FE] text-[#5B21B6]
+  }
+  .pink{
+    @apply bg-[#FCE7F3] text-[#92400E]
+  }
+
+  .pill{
+    @apply rounded-xl
+  }
+
+  .square{
+    @apply rounded
+  }
+}
