@@ -2,7 +2,7 @@ export default function StartPage(props) {
     return (
         <div className="flex flex-col items-center justify-center max-w-96 gap-4 text-[#293264] border border-[#293264] p-16 bg-white">
             <h1 className="text-4xl font-bold">
-                Quizzical
+                QuizziT
             </h1>
             <p className="text-center">
                 Wanna test your general knowledge? Hit the button down below!
